@@ -11,7 +11,11 @@ const Hero = () => {
         />
         <button
           type="button"
-          onClick={() => window.open("https://github.com/akash-Sa19")}
+          onClick={() =>
+            window.open(
+              "https://github.com/akash-Sa19/OpenAI-Article-Summarizer"
+            )
+          }
           className="black_btn"
         >
           GitHub

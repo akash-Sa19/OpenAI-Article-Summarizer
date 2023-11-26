@@ -7,4 +7,5 @@ export default defineConfig({
   build: {
     outDir: "build",
   },
+  base: "/OpenAI-Article-Summarizer",
 });

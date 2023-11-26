@@ -1,8 +1,14 @@
-# React + Vite
+<h1>OpenAI Article-Summarizer</h1>
+<br/>
+<h3>Simplify your reading with Sumize, an open-source article summarizer that transforms lengthy articles into clear and concise summaries.</h3>
+<h6>Made with the most indemand technologies as React, Vite, TailwindCSS, ReduxToolkit, ReduxToolkit Query and RapidApi.</h6>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>Features -</p>
+<ul>
+<li>Made RTK Query Api requests that fire on condition.</li>
+<li>Save summarized history using local storage</li>
+<li>Handled form events & catch error </li>
+<li>Implemented copy to clipboard functionality</li>
+</ul>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p>Try it now -<a href="https://akash-sa19.github.io/OpenAI-Article-Summarizer/">https://akash-sa19.github.io/OpenAI-Article-Summarizer/</a></p>
